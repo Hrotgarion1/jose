@@ -1,0 +1,12 @@
+.linea {
+  border-top: 15px solid #17a2b8;
+  height: 225px;
+  padding: 0;
+  margin: 5px auto 0 auto;
+}
+.linea1 {
+  border-top: 5px solid #17a2b8;
+  height: 5px;
+  padding: 0;
+  margin: 5px auto 0 auto;
+}

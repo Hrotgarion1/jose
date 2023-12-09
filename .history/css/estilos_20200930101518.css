@@ -1,0 +1,20 @@
+.linea {
+  border-top: 15px solid #39B2C3;
+  height: 25px;
+  padding: 0;
+  margin: 55px auto 0 auto;
+}
+.linea1 {
+  border-top: 15px solid #39b2c3;
+  height: 15px;
+  padding: 0;
+  margin: 0px auto 0 auto;
+}
+
+.bg-cards {
+  background-color: #61C5D3 !important;
+}
+.bg-cards-citas {
+  background-color: #67E47D !important;
+}
+
